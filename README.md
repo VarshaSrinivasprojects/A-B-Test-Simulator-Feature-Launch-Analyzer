@@ -1,5 +1,5 @@
 # Streamlit App for Advanced Product Experimentation and Impact Analysis
-##📊 A/B Test Simulator & Feature Launch Analyzer
+📊 A/B Test Simulator & Feature Launch Analyzer
 
 Overview:
 This project is a hands-on tool that simulates A/B testing for product feature launches, enabling product teams to estimate the impact of new features on key metrics such as conversion rate and user engagement—before deployment.
@@ -22,7 +22,7 @@ streamlit run app/streamlit_advanced_simulators.py
 or 
 Click this link: https://a-b-test-simulator-feature-launch-analyzer.streamlit.app/
 
-##📈 Real-World Use Cases
+📈 Real-World Use Cases
 Product managers testing potential feature launches
 
 Growth analysts evaluating campaign effectiveness
